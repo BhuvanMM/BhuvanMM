@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhuvan</h1>
-<h3 align="center">About As a computer science engineering student, I am passionate about exploring the intersection of technology and innovation. I am currently pursuing a degree in computer science engineering, with a focus on software development I am excited to bring my technical expertise and creativity to real-world challenges</h3>
+<h3 align="center">As a computer science engineering student, I am passionate about leveraging technology for innovative solutions. With a focus on software development, I'm eager to apply my technical skills and creativity to tackle real-world challenges.</h3>
 
-<img align="right" alt="coding" width="400" src="https://embed-ssl.wistia.com/deliveries/a056afbed3974a1c593a95005624d0f88ababe5d.jpg"/>
+<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/491/062/original/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvanmm&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvanmm" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Web Development and Backend Development**
 
-- 💬 Ask me about **ReactJS,ExpressJS,Databases,Data structures**
+- 💬 Ask me about **ReactJS,ExpressJS,Databases and Data structures**
 
 - 📫 How to reach me **bhuvanmm@icloud.com**
 
