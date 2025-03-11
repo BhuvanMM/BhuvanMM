@@ -1,8 +1,10 @@
-# <div align="center">👨‍💻 Bhuvan M M | Software Developer 👨‍💻</div>
+# <div align="center">BHUVAN M M </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Engineering;Web+Development+Enthusiast;Backend+Developer;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&height=70&lines=Full-Stack+Developer;Software+Engineer;Code+Architect;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bhuvan-m-m-6b370a259">
@@ -16,31 +18,43 @@
   </a>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coder GIF" width="380">
 
-## 🚀 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 As a computer science engineering student, I'm passionate about leveraging technology for innovative solutions. With a focus on software development, I'm eager to apply my technical skills and creativity to tackle real-world challenges.
 
-- 🔭 I'm currently working on **fullstack web applications**
+```javascript
+const bhuvan = {
+  code: ["JavaScript", "C++", "HTML", "CSS"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "PostgreSQL"],
+  architecture: ["microservices", "MVC", "event-driven"],
+  currentFocus: "Building scalable and robust web applications",
+  challenge: "Mastering advanced backend technologies"
+}
+```
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on **fullstack web applications**
 - 🌱 I'm currently learning **Web Development and Backend Development**
 - 💬 Ask me about **ReactJS, ExpressJS, Databases, and Data Structures**
 - 📫 How to reach me: **bhuvanmm@icloud.com**
-- ⚡ Fun fact: **I can debug code faster than I can debug my life decisions**
+- ⚡ Fun fact: **I code like I breathe - constantly and automatically**
 
-## 💻 Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -51,40 +65,45 @@ As a computer science engineering student, I'm passionate about leveraging techn
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanmm&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Bhuvan's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanmm&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=0D1117" alt="Top Languages" height="165" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvanmm&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvanmm&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bhuvanmm&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhuvanmm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/bhuvanmm?label=Followers&style=social" alt="Followers" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanmm&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  
-  ### Show some ❤️ by starring my repositories!
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanmm&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=C8D1D8&bg_color=0D1117" alt="Bhuvan's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanmm&layout=compact&hide_border=true&title_color=00FFFF&text_color=C8D1D8&bg_color=0D1117" alt="Top Languages" height="165" />
+</div>
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvanmm&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> Coding Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvanmm&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhuvanmm&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvanmm&theme=radical" alt="Repos per Language" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhuvanmm&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/bhuvanmm?style=for-the-badge&label=Followers&color=ff69b4" alt="Followers" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
