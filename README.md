@@ -68,9 +68,7 @@ const bhuvan = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanmm&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhuvanmm&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=C8D1D8&bg_color=0D1117" alt="Bhuvan's GitHub Stats" height="165" />
