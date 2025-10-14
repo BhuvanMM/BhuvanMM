@@ -1,6 +1,6 @@
 <div align="center">
 
-# BHUVAN M M
+# BHUVAN
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Developer;Software+Engineer;Backend+Specialist;System+Architect;Problem+Solver" alt="Typing SVG" />
 
@@ -13,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-m-m-6b370a259)
 [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvanmm@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanmm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
