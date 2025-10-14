@@ -106,8 +106,6 @@ const bhuvan = {
 
 <div align="center">
 
-### Developer Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
 
 
