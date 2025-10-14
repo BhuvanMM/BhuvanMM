@@ -21,12 +21,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coder GIF" width="380">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
-
-Computer Science Engineering student with a passion for **architecting scalable systems** and building **production-grade applications**. I specialize in full-stack development with a strong emphasis on backend engineering and distributed systems.
-
-My journey involves crafting elegant solutions to complex problems, optimizing performance at scale, and contributing to meaningful projects that make a difference.
-
 ```javascript
 const bhuvan = {
   role: "Full-Stack Developer",
@@ -41,7 +35,6 @@ const bhuvan = {
   architecture: ["Microservices", "MVC", "Event-Driven", "REST"],
   currentFocus: "Building scalable distributed systems",
   learning: ["System Design", "Cloud Architecture", "DevOps"],
-  communities: ["Open Source Contributor", "Tech Enthusiast"]
 };
 ```
 
@@ -112,25 +105,9 @@ const bhuvan = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-### 💭 Developer Quote
+### Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
-
-<br>
-
-<br>
 
 
 </div>
