@@ -55,7 +55,7 @@ const bhuvan = {
 <tr>
 <td valign="top" width="50%">
 
-### 🎨 Frontend Development
+### Frontend Development
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -69,7 +69,7 @@ const bhuvan = {
 
 <td valign="top" width="50%">
 
-### ⚙️ Backend Development
+### Backend Development
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -97,7 +97,7 @@ const bhuvan = {
 
 <td valign="top" width="50%">
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
@@ -114,7 +114,7 @@ const bhuvan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvanmm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117"/>
@@ -127,13 +127,6 @@ const bhuvan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvanmm&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&title_color=FF0000" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Current Focus
 
@@ -172,49 +165,6 @@ const bhuvan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvanmm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Professional Summary
-
-<div align="center">
-
-| 🎓 Education | 💻 Experience | 🚀 Projects | 🌟 Skills |
-|:---:|:---:|:---:|:---:|
-| Computer Science Engineering | Full-Stack Development | 10+ Projects | Problem Solving |
-| Data Structures & Algorithms | Backend Specialist | Open Source | System Design |
-| Database Management | API Development | Web Applications | Clean Code |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-I'm always excited to collaborate on innovative projects, discuss system architecture, or contribute to open-source initiatives. Let's build something amazing together!
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-m-m-6b370a259)
-[![Email](https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvanmm@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanmm)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhuvanmm&color=red&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ### 💭 Developer Quote
 
@@ -226,7 +176,6 @@ I'm always excited to collaborate on innovative projects, discuss system archite
 
 <br>
 
-<sub>⚡ Building reliable systems, one commit at a time | © 2025 Bhuvan M M ⚡</sub>
 
 </div>
 
