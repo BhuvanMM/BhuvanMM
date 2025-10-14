@@ -33,7 +33,7 @@ const bhuvan = {
   interests: ["System Design", "Microservices", "Cloud"],
   currentFocus: "Developing scalable backend systems"
 };
-
+```
 Tech Stack & Tools
 <div align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=flat-square&logoColor=white" /> </div>
 
