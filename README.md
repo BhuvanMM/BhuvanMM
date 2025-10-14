@@ -34,12 +34,6 @@ const bhuvan = {
 }
 ```
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on **fullstack web applications**
-- 🌱 I'm currently learning **Web Development and Backend Development**
-- 💬 Ask me about **ReactJS, ExpressJS, Databases, and Data Structures**
-- 📫 How to reach me: **bhuvanmm@icloud.com**
-- ⚡ Fun fact: **I code like I breathe - constantly and automatically**
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
