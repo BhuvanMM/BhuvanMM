@@ -85,7 +85,7 @@ const bhuvan = {
 <tr>
 <td valign="top" width="50%">
 
-### 💻 Programming Languages
+### Programming Languages
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
@@ -117,51 +117,9 @@ const bhuvan = {
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvanmm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanmm&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanmm&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td>
-
-```yaml
-🔥 Building:
-  - Scalable full-stack applications
-  - RESTful APIs with Node.js & Express
-  - Microservices architecture
-
-📚 Learning:
-  - Distributed Systems Design
-  - Apache Kafka & Message Queues
-  - Cloud Technologies (AWS/Azure)
-  - System Design Patterns
-
-🏗️ Exploring:
-  - Event-Driven Architecture
-  - Database Optimization
-  - Caching Strategies (Redis)
-  - Container Orchestration
-
-💡 Interests:
-  - Open Source Contribution
-  - Tech Blogging
-  - Competitive Programming
-  - Code Reviews & Best Practices
-```
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -171,8 +129,6 @@ const bhuvan = {
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
 
 <br>
-
-**"First, solve the problem. Then, write the code."**
 
 <br>
 
