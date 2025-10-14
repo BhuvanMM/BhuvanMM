@@ -19,8 +19,6 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coder GIF" width="380">
-
 ```javascript
 const bhuvan = {
   role: "Full-Stack Developer",
